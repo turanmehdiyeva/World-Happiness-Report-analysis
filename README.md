@@ -1,1 +1,1 @@
-# World-Happiness-Report-analysis
+# World-Happiness-Report-EDA
